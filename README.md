@@ -29,3 +29,6 @@ externos. Foram declarados dois parâmetros:
 
 Isso permite reutilizar o mesmo componente três vezes com comportamentos
 diferentes, sem duplicar código.
+
+## Screenshot
+!<img width="1172" height="712" alt="screenshot png" src="https://github.com/user-attachments/assets/2809ea98-4262-4dda-82f1-991f4cbcdfc4" />
